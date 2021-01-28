@@ -2,6 +2,5 @@
 
 [Click here to Play!](https://jyameo.github.io/BoxShooter3D/)
 
-https://jyameo.github.io/BoxShooter3D/
 
 
